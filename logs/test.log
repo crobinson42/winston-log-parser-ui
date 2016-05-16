@@ -1,0 +1,4 @@
+{"level":"verbose","message":"Rendering view: \"public/index\" (located @ \"/therms-1337/views/public/index\")","timestamp":"2016-05-16T04:32:43.734Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T04:33:12.028Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T04:33:12.031Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T04:33:55.613Z"}

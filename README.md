@@ -1,2 +1,3 @@
-# winston-log-parser-ui
-Parse and view winston logs in your browser
+# app
+
+a [Sails](http://sailsjs.org) application

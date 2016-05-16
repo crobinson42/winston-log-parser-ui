@@ -1,0 +1,351 @@
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T04:10:08.746Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T04:12:24.617Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T04:12:24.618Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T04:12:31.858Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T04:12:42.470Z"}
+{"level":"verbose","message":"Rendering view: \"public/index\" (located @ \"/therms-1337/views/public/index\")","timestamp":"2016-05-16T04:12:43.414Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T04:13:56.866Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T04:13:56.870Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T04:14:00.121Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T04:15:25.122Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T04:15:25.123Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T04:15:28.155Z"}
+{"level":"verbose","message":"Rendering view: \"public/index\" (located @ \"/therms-1337/views/public/index\")","timestamp":"2016-05-16T04:16:50.388Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T04:16:53.156Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T04:16:53.157Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T04:16:56.568Z"}
+{"level":"verbose","message":"Rendering view: \"public/index\" (located @ \"/therms-1337/views/public/index\")","timestamp":"2016-05-16T04:17:43.423Z"}
+{"level":"verbose","message":"Rendering view: \"public/index\" (located @ \"/therms-1337/views/public/index\")","timestamp":"2016-05-16T04:22:43.841Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T04:25:56.925Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T04:25:56.926Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T04:25:58.822Z"}
+{"level":"verbose","message":"Rendering view: \"dashboard\" (located @ \"/therms-1337/views/dashboard\")","timestamp":"2016-05-16T04:26:04.766Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T04:26:04.865Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T04:26:04.866Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T04:26:09.179Z"}
+{"level":"verbose","message":"Rendering view: \"public/index\" (located @ \"/therms-1337/views/public/index\")","timestamp":"2016-05-16T04:27:43.761Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T04:31:45.329Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T04:31:45.333Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T04:31:47.027Z"}
+{"level":"verbose","message":"Rendering view: \"public/index\" (located @ \"/therms-1337/views/public/index\")","timestamp":"2016-05-16T04:32:43.734Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T04:33:12.028Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T04:33:12.031Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T04:33:55.613Z"}
+{"level":"verbose","message":"Rendering view: \"public/index\" (located @ \"/therms-1337/views/public/index\")","timestamp":"2016-05-16T04:37:43.765Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T04:39:16.973Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T04:39:16.975Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T04:39:20.751Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T04:40:45.749Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T04:40:45.750Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T04:40:51.327Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T04:42:16.327Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T04:42:16.328Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T04:42:20.219Z"}
+{"level":"verbose","message":"Rendering view: \"public/index\" (located @ \"/therms-1337/views/public/index\")","timestamp":"2016-05-16T04:42:43.797Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T04:43:45.222Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T04:43:45.222Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T04:43:47.834Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T04:45:12.835Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T04:45:12.838Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T04:45:27.392Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T04:47:21.685Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T04:47:21.686Z"}
+{"level":"verbose","message":"Rendering view: \"public/index\" (located @ \"/therms-1337/views/public/index\")","timestamp":"2016-05-16T04:47:43.853Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T04:47:54.775Z"}
+{"level":"verbose","message":"Rendering view: \"dashboard\" (located @ \"/therms-1337/views/dashboard\")","timestamp":"2016-05-16T04:50:28.430Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T04:50:28.494Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T04:50:28.495Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T04:50:33.962Z"}
+{"level":"verbose","message":"Rendering view: \"public/index\" (located @ \"/therms-1337/views/public/index\")","timestamp":"2016-05-16T04:52:43.816Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T04:55:24.317Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T04:55:24.318Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T04:55:26.633Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T04:56:51.634Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T04:56:51.635Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T04:56:58.890Z"}
+{"level":"verbose","message":"Rendering view: \"public/index\" (located @ \"/therms-1337/views/public/index\")","timestamp":"2016-05-16T04:57:43.858Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T04:58:23.886Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T04:58:23.889Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T04:58:30.712Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T04:59:55.709Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T04:59:55.711Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T04:59:57.245Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T05:01:22.247Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:01:22.248Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:01:25.263Z"}
+{"level":"verbose","message":"Rendering view: \"public/index\" (located @ \"/therms-1337/views/public/index\")","timestamp":"2016-05-16T05:02:43.879Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T05:02:50.265Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:02:50.267Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:02:53.493Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T05:04:18.492Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:04:18.493Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:04:42.496Z"}
+{"level":"verbose","message":"Rendering view: \"login\" (located @ \"/therms-1337/views/login\")","timestamp":"2016-05-16T05:04:54.116Z"}
+{"level":"verbose","message":"• using configured layout:: layout (located @ \"/therms-1337/views/layout\")","timestamp":"2016-05-16T05:04:54.117Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T05:04:54.159Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:04:54.161Z"}
+{"level":"verbose","message":"Rendering view: \"dashboard\" (located @ \"/therms-1337/views/dashboard\")","timestamp":"2016-05-16T05:06:12.364Z"}
+{"level":"verbose","message":"Rendering view: \"dashboard\" (located @ \"/therms-1337/views/dashboard\")","timestamp":"2016-05-16T05:06:12.487Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:06:13.388Z"}
+{"level":"verbose","message":"Rendering view: \"dashboard\" (located @ \"/therms-1337/views/dashboard\")","timestamp":"2016-05-16T05:06:43.353Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T05:06:43.430Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:06:43.431Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:06:47.757Z"}
+{"level":"verbose","message":"Rendering view: \"dashboard\" (located @ \"/therms-1337/views/dashboard\")","timestamp":"2016-05-16T05:07:11.556Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T05:07:11.626Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:07:11.627Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:07:15.791Z"}
+{"level":"verbose","message":"Rendering view: \"public/index\" (located @ \"/therms-1337/views/public/index\")","timestamp":"2016-05-16T05:07:43.856Z"}
+{"level":"verbose","message":"Rendering view: \"public/index\" (located @ \"/therms-1337/views/public/index\")","timestamp":"2016-05-16T05:09:42.191Z"}
+{"level":"verbose","message":"Rendering view: \"login\" (located @ \"/therms-1337/views/login\")","timestamp":"2016-05-16T05:10:01.753Z"}
+{"level":"verbose","message":"• using configured layout:: layout (located @ \"/therms-1337/views/layout\")","timestamp":"2016-05-16T05:10:01.754Z"}
+{"level":"verbose","message":"Sending 400 (\"Bad Request\" /login) response","timestamp":"2016-05-16T05:10:16.426Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T05:10:22.378Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:10:22.380Z"}
+{"cookie":{"path":"/","_expires":"2016-05-16T17:10:18.719Z","originalMaxAge":43199966,"httpOnly":true},"authenticated":true,"user":{"regions":[{"name":"Sacramento","organization":"56e647840ade92b36bf167a8","model":"region","active":true,"settings":{},"createdAt":"2016-03-14T05:09:24.148Z","updatedAt":"2016-03-14T05:09:24.148Z","id":"56e647840ade92b36bf167a9"}],"defaultRegion":{"name":"Sacramento","organization":"56e647840ade92b36bf167a8","model":"region","active":true,"settings":{},"createdAt":"2016-03-14T05:09:24.148Z","updatedAt":"2016-03-14T05:09:24.148Z","id":"56e647840ade92b36bf167a9"},"organization":{"name":"Legion Security","model":"organization","active":true,"settings":{"mail":true,"bulletin":true,"report":true,"reportApproval":true,"reportEntryVehicle":true,"reportEntryCamera":true,"reportEntryDispatch":true,"dispatch":true,"location":true,"roster":true},"createdAt":"2016-03-14T05:09:24.140Z","updatedAt":"2016-03-14T05:09:24.140Z","id":"56e647840ade92b36bf167a8"},"firstName":"Zach","lastName":"Crain","accessLevel":4,"email":"crainz92@gmail.com","username":"ZachCrain","password":"$2a$10$6bugi60AgEPz36iDcYLkQeKyJCm96uHIbvlIaTn7DMeT2MJ3Dmn6y","model":"user","active":true,"settings":{"email_notifications":true,"reportEntrySort":true},"createdAt":"2016-04-24T20:50:20.176Z","updatedAt":"2016-05-09T10:20:14.124Z","phone":"(916) 793-1404","id":"571d318c5debfd5417934baa"},"level":"warn","message":"ReportEntryController.destroy() request made by unauth user.","timestamp":"2016-05-16T05:10:26.808Z"}
+{"level":"verbose","message":"Sending 403 (\"Forbidden\") response: \n You don't have the correct access.","timestamp":"2016-05-16T05:10:28.132Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:10:29.077Z"}
+{"level":"verbose","message":"Sending 400 (\"Bad Request\" /login) response","timestamp":"2016-05-16T05:10:32.298Z"}
+{"level":"verbose","message":"Sending 400 (\"Bad Request\" /login) response","timestamp":"2016-05-16T05:10:37.889Z"}
+{"level":"verbose","message":"Sending 400 (\"Bad Request\" /login) response","timestamp":"2016-05-16T05:10:51.126Z"}
+{"level":"verbose","message":"Sending 400 (\"Bad Request\" /login) response","timestamp":"2016-05-16T05:10:56.245Z"}
+{"level":"verbose","message":"Sending 400 (\"Bad Request\" /login) response","timestamp":"2016-05-16T05:10:58.325Z"}
+{"level":"verbose","message":"Sending 400 (\"Bad Request\" /login) response","timestamp":"2016-05-16T05:11:12.491Z"}
+{"level":"verbose","message":"Sending 400 (\"Bad Request\" /login) response","timestamp":"2016-05-16T05:11:14.117Z"}
+{"level":"verbose","message":"Sending 400 (\"Bad Request\" /login) response","timestamp":"2016-05-16T05:11:14.800Z"}
+{"level":"verbose","message":"Sending 400 (\"Bad Request\" /login) response","timestamp":"2016-05-16T05:11:14.999Z"}
+{"level":"verbose","message":"Sending 400 (\"Bad Request\" /login) response","timestamp":"2016-05-16T05:11:15.201Z"}
+{"level":"verbose","message":"Rendering view: \"login\" (located @ \"/therms-1337/views/login\")","timestamp":"2016-05-16T05:11:17.156Z"}
+{"level":"verbose","message":"• using configured layout:: layout (located @ \"/therms-1337/views/layout\")","timestamp":"2016-05-16T05:11:17.157Z"}
+{"level":"verbose","message":"Sending 400 (\"Bad Request\" /login) response","timestamp":"2016-05-16T05:11:36.056Z"}
+{"level":"verbose","message":"Sending 400 (\"Bad Request\" /login) response","timestamp":"2016-05-16T05:11:37.289Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T05:11:54.075Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:11:54.077Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:12:06.542Z"}
+{"level":"verbose","message":"Rendering view: \"public/index\" (located @ \"/therms-1337/views/public/index\")","timestamp":"2016-05-16T05:12:43.853Z"}
+{"level":"verbose","message":"Sending 400 (\"Bad Request\" /login) response","timestamp":"2016-05-16T05:13:02.188Z"}
+{"level":"verbose","message":"Sending 400 (\"Bad Request\" /login) response","timestamp":"2016-05-16T05:13:04.244Z"}
+{"level":"verbose","message":"Sending 400 (\"Bad Request\" /login) response","timestamp":"2016-05-16T05:13:10.280Z"}
+{"level":"verbose","message":"Sending 400 (\"Bad Request\" /login) response","timestamp":"2016-05-16T05:13:11.241Z"}
+{"level":"verbose","message":"Rendering view: \"public/index\" (located @ \"/therms-1337/views/public/index\")","timestamp":"2016-05-16T05:13:28.165Z"}
+{"level":"verbose","message":"Sending 400 (\"Bad Request\" /login) response","timestamp":"2016-05-16T05:13:39.686Z"}
+{"level":"verbose","message":"Sending 400 (\"Bad Request\" /login) response","timestamp":"2016-05-16T05:13:42.300Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T05:14:11.671Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:14:11.672Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:14:14.072Z"}
+{"level":"verbose","message":"Sending 400 (\"Bad Request\" /login) response","timestamp":"2016-05-16T05:14:21.911Z"}
+{"level":"verbose","message":"Sending 400 (\"Bad Request\" /login) response","timestamp":"2016-05-16T05:14:22.915Z"}
+{"level":"verbose","message":"Sending 400 (\"Bad Request\" /login) response","timestamp":"2016-05-16T05:14:23.075Z"}
+{"level":"verbose","message":"Sending 400 (\"Bad Request\" /login) response","timestamp":"2016-05-16T05:14:23.247Z"}
+{"level":"verbose","message":"Sending 400 (\"Bad Request\" /login) response","timestamp":"2016-05-16T05:14:24.218Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T05:14:52.978Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:14:52.979Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T05:15:39.070Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:15:39.079Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:15:41.725Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T05:17:06.728Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:17:06.730Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:17:09.472Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:17:25.875Z"}
+{"level":"verbose","message":"Rendering view: \"public/index\" (located @ \"/therms-1337/views/public/index\")","timestamp":"2016-05-16T05:17:43.876Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T05:18:34.476Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:18:34.476Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:18:41.543Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:19:26.933Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T05:19:32.437Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:19:32.439Z"}
+{"level":"verbose","message":"Rendering view: \"dashboard\" (located @ \"/therms-1337/views/dashboard\")","timestamp":"2016-05-16T05:19:45.181Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T05:19:45.324Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:19:45.324Z"}
+{"level":"verbose","message":"Rendering view: \"public/_partial_forgotUsernamePassword\" (located @ \"/therms-1337/views/public/_partial_forgotUsernamePassword\")","timestamp":"2016-05-16T05:19:58.867Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T05:20:06.544Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:20:06.545Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:20:08.639Z"}
+{"level":"verbose","message":"Rendering view: \"login\" (located @ \"/therms-1337/views/login\")","timestamp":"2016-05-16T05:20:14.717Z"}
+{"level":"verbose","message":"• using configured layout:: layout (located @ \"/therms-1337/views/layout\")","timestamp":"2016-05-16T05:20:14.717Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T05:21:33.641Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:21:33.642Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:21:35.689Z"}
+{"level":"verbose","message":"Rendering view: \"public/index\" (located @ \"/therms-1337/views/public/index\")","timestamp":"2016-05-16T05:22:43.932Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T05:23:00.693Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:23:00.694Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:23:12.126Z"}
+{"level":"verbose","message":"Rendering view: \"dashboard\" (located @ \"/therms-1337/views/dashboard\")","timestamp":"2016-05-16T05:27:41.916Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T05:27:41.978Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:27:41.979Z"}
+{"level":"verbose","message":"Rendering view: \"public/index\" (located @ \"/therms-1337/views/public/index\")","timestamp":"2016-05-16T05:27:43.951Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:27:46.113Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T05:30:10.522Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:30:10.523Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:30:17.989Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T05:31:42.991Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:31:42.992Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:31:44.888Z"}
+{"level":"verbose","message":"Rendering view: \"dashboard\" (located @ \"/therms-1337/views/dashboard\")","timestamp":"2016-05-16T05:31:48.957Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T05:31:49.024Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:31:49.025Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:31:53.249Z"}
+{"level":"verbose","message":"Sending 400 (\"Bad Request\" /login) response","timestamp":"2016-05-16T05:32:34.737Z"}
+{"level":"verbose","message":"Sending 400 (\"Bad Request\" /login) response","timestamp":"2016-05-16T05:32:35.816Z"}
+{"level":"verbose","message":"Sending 400 (\"Bad Request\" /login) response","timestamp":"2016-05-16T05:32:36.604Z"}
+{"level":"verbose","message":"Sending 400 (\"Bad Request\" /login) response","timestamp":"2016-05-16T05:32:36.776Z"}
+{"level":"verbose","message":"Sending 400 (\"Bad Request\" /login) response","timestamp":"2016-05-16T05:32:37.031Z"}
+{"level":"verbose","message":"Sending 400 (\"Bad Request\" /login) response","timestamp":"2016-05-16T05:32:37.269Z"}
+{"level":"verbose","message":"Sending 400 (\"Bad Request\" /login) response","timestamp":"2016-05-16T05:32:37.481Z"}
+{"level":"verbose","message":"Sending 400 (\"Bad Request\" /login) response","timestamp":"2016-05-16T05:32:37.666Z"}
+{"level":"verbose","message":"Sending 400 (\"Bad Request\" /login) response","timestamp":"2016-05-16T05:32:37.913Z"}
+{"level":"verbose","message":"Sending 400 (\"Bad Request\" /login) response","timestamp":"2016-05-16T05:32:38.117Z"}
+{"level":"verbose","message":"Sending 400 (\"Bad Request\" /login) response","timestamp":"2016-05-16T05:32:38.320Z"}
+{"level":"verbose","message":"Sending 400 (\"Bad Request\" /login) response","timestamp":"2016-05-16T05:32:38.520Z"}
+{"level":"verbose","message":"Rendering view: \"public/index\" (located @ \"/therms-1337/views/public/index\")","timestamp":"2016-05-16T05:32:43.953Z"}
+{"level":"verbose","message":"Sending 400 (\"Bad Request\" /login) response","timestamp":"2016-05-16T05:35:54.035Z"}
+{"level":"verbose","message":"Sending 400 (\"Bad Request\" /login) response","timestamp":"2016-05-16T05:35:55.586Z"}
+{"level":"verbose","message":"Sending 400 (\"Bad Request\" /login) response","timestamp":"2016-05-16T05:35:57.742Z"}
+{"level":"verbose","message":"Rendering view: \"public/index\" (located @ \"/therms-1337/views/public/index\")","timestamp":"2016-05-16T05:37:44.129Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T05:39:40.032Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:39:40.033Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:39:41.834Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T05:41:06.833Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:41:06.834Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:41:08.698Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T05:42:33.698Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:42:33.699Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:42:36.832Z"}
+{"level":"verbose","message":"Rendering view: \"public/index\" (located @ \"/therms-1337/views/public/index\")","timestamp":"2016-05-16T05:42:44.098Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T05:44:01.840Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:44:01.842Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:44:04.360Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T05:45:29.360Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:45:29.361Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:45:31.936Z"}
+{"level":"verbose","message":"Rendering view: \"public/index\" (located @ \"/therms-1337/views/public/index\")","timestamp":"2016-05-16T05:45:51.822Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T05:46:56.936Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:46:56.937Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:47:04.449Z"}
+{"level":"verbose","message":"Rendering view: \"public/index\" (located @ \"/therms-1337/views/public/index\")","timestamp":"2016-05-16T05:47:44.113Z"}
+{"level":"verbose","message":"Rendering view: \"login\" (located @ \"/therms-1337/views/login\")","timestamp":"2016-05-16T05:47:52.445Z"}
+{"level":"verbose","message":"• using configured layout:: layout (located @ \"/therms-1337/views/layout\")","timestamp":"2016-05-16T05:47:52.446Z"}
+{"level":"verbose","message":"Rendering view: \"dashboard\" (located @ \"/therms-1337/views/dashboard\")","timestamp":"2016-05-16T05:48:00.473Z"}
+{"level":"verbose","message":"Rendering view: \"dashboard\" (located @ \"/therms-1337/views/dashboard\")","timestamp":"2016-05-16T05:48:00.638Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:48:01.409Z"}
+{"level":"verbose","message":"GLOBALs being set in ReactServerSideService.initGlobals()","timestamp":"2016-05-16T05:48:14.554Z"}
+{"level":"verbose","message":"GLOBALs being set in ReactServerSideService.initGlobals()","timestamp":"2016-05-16T05:48:25.637Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T05:48:29.448Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:48:29.449Z"}
+{"level":"verbose","message":"GLOBALs being set in ReactServerSideService.initGlobals()","timestamp":"2016-05-16T05:49:19.898Z"}
+{"level":"verbose","message":"GLOBALs being set in ReactServerSideService.initGlobals()","timestamp":"2016-05-16T05:49:27.200Z"}
+{"level":"verbose","message":"GLOBALs being set in ReactServerSideService.initGlobals()","timestamp":"2016-05-16T05:51:15.023Z"}
+{"level":"verbose","message":"GLOBALs being set in ReactServerSideService.initGlobals()","timestamp":"2016-05-16T05:51:18.872Z"}
+{"level":"verbose","message":"Rendering view: \"public/index\" (located @ \"/therms-1337/views/public/index\")","timestamp":"2016-05-16T05:51:51.414Z"}
+{"level":"verbose","message":"Rendering view: \"login\" (located @ \"/therms-1337/views/login\")","timestamp":"2016-05-16T05:51:55.522Z"}
+{"level":"verbose","message":"• using configured layout:: layout (located @ \"/therms-1337/views/layout\")","timestamp":"2016-05-16T05:51:55.523Z"}
+{"level":"verbose","message":"Rendering view: \"dashboard\" (located @ \"/therms-1337/views/dashboard\")","timestamp":"2016-05-16T05:52:06.169Z"}
+{"level":"verbose","message":"Rendering view: \"dashboard\" (located @ \"/therms-1337/views/dashboard\")","timestamp":"2016-05-16T05:52:06.339Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:52:09.850Z"}
+{"level":"verbose","message":"Rendering view: \"public/index\" (located @ \"/therms-1337/views/public/index\")","timestamp":"2016-05-16T05:52:44.145Z"}
+{"level":"verbose","message":"GLOBALs being set in ReactServerSideService.initGlobals()","timestamp":"2016-05-16T05:52:46.913Z"}
+{"level":"verbose","message":"Rendering view: \"dashboard\" (located @ \"/therms-1337/views/dashboard\")","timestamp":"2016-05-16T05:52:49.359Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T05:52:49.414Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:52:49.415Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:52:52.556Z"}
+{"level":"verbose","message":"GLOBALs being set in ReactServerSideService.initGlobals()","timestamp":"2016-05-16T05:52:57.933Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T05:53:35.123Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:53:35.124Z"}
+{"level":"verbose","message":"Rendering view: \"public/index\" (located @ \"/therms-1337/views/public/index\")","timestamp":"2016-05-16T05:54:10.710Z"}
+{"level":"verbose","message":"Rendering view: \"login\" (located @ \"/therms-1337/views/login\")","timestamp":"2016-05-16T05:54:17.362Z"}
+{"level":"verbose","message":"• using configured layout:: layout (located @ \"/therms-1337/views/layout\")","timestamp":"2016-05-16T05:54:17.363Z"}
+{"level":"verbose","message":"Rendering view: \"dashboard\" (located @ \"/therms-1337/views/dashboard\")","timestamp":"2016-05-16T05:54:20.200Z"}
+{"level":"verbose","message":"Rendering view: \"dashboard\" (located @ \"/therms-1337/views/dashboard\")","timestamp":"2016-05-16T05:54:20.419Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:54:21.885Z"}
+{"level":"verbose","message":"Rendering view: \"public/index\" (located @ \"/therms-1337/views/public/index\")","timestamp":"2016-05-16T05:54:55.234Z"}
+{"level":"verbose","message":"Rendering view: \"login\" (located @ \"/therms-1337/views/login\")","timestamp":"2016-05-16T05:55:00.518Z"}
+{"level":"verbose","message":"• using configured layout:: layout (located @ \"/therms-1337/views/layout\")","timestamp":"2016-05-16T05:55:00.519Z"}
+{"level":"verbose","message":"Rendering view: \"dashboard\" (located @ \"/therms-1337/views/dashboard\")","timestamp":"2016-05-16T05:55:04.142Z"}
+{"level":"verbose","message":"Rendering view: \"dashboard\" (located @ \"/therms-1337/views/dashboard\")","timestamp":"2016-05-16T05:55:04.383Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:55:06.353Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:57:17.088Z"}
+{"level":"verbose","message":"Rendering view: \"public/index\" (located @ \"/therms-1337/views/public/index\")","timestamp":"2016-05-16T05:57:44.153Z"}
+{"level":"verbose","message":"Rendering view: \"dashboard\" (located @ \"/therms-1337/views/dashboard\")","timestamp":"2016-05-16T05:58:03.112Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T05:58:03.183Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:58:03.184Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:58:07.787Z"}
+{"level":"verbose","message":"Rendering view: \"dashboard\" (located @ \"/therms-1337/views/dashboard\")","timestamp":"2016-05-16T05:58:11.453Z"}
+{"level":"verbose","message":"Rendering view: \"dashboard\" (located @ \"/therms-1337/views/dashboard\")","timestamp":"2016-05-16T05:58:11.616Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:58:12.141Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T05:58:32.661Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T05:58:32.663Z"}
+{"level":"verbose","message":"Rendering view: \"dashboard\" (located @ \"/therms-1337/views/dashboard\")","timestamp":"2016-05-16T06:00:05.793Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T06:00:05.842Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T06:00:05.842Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T06:00:06.937Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T06:01:42.705Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T06:01:42.706Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T06:01:58.679Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T06:01:58.680Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T06:02:06.574Z"}
+{"level":"verbose","message":"Rendering view: \"dashboard\" (located @ \"/therms-1337/views/dashboard\")","timestamp":"2016-05-16T06:02:23.897Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T06:02:24.044Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T06:02:24.045Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T06:02:28.276Z"}
+{"level":"verbose","message":"Rendering view: \"public/index\" (located @ \"/therms-1337/views/public/index\")","timestamp":"2016-05-16T06:02:44.176Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T06:02:59.541Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T06:02:59.542Z"}
+{"level":"verbose","message":"Rendering view: \"public/index\" (located @ \"/therms-1337/views/public/index\")","timestamp":"2016-05-16T06:03:18.843Z"}
+{"level":"verbose","message":"Rendering view: \"public/index\" (located @ \"/therms-1337/views/public/index\")","timestamp":"2016-05-16T06:03:21.591Z"}
+{"level":"verbose","message":"Rendering view: \"dashboard\" (located @ \"/therms-1337/views/dashboard\")","timestamp":"2016-05-16T06:03:25.087Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T06:03:26.593Z"}
+{"originalError":{"name":"MongoError","message":"The dotted field 'barcelonaapartments@ymail.com' in 'subscriberEmailLog.barcelonaapartments@ymail.com' is not valid for storage.","driver":true,"index":0,"code":57,"errmsg":"The dotted field 'barcelonaapartments@ymail.com' in 'subscriberEmailLog.barcelonaapartments@ymail.com' is not valid for storage."},"_e":{"name":"MongoError","message":"The dotted field 'barcelonaapartments@ymail.com' in 'subscriberEmailLog.barcelonaapartments@ymail.com' is not valid for storage.","driver":true,"index":0,"code":57,"errmsg":"The dotted field 'barcelonaapartments@ymail.com' in 'subscriberEmailLog.barcelonaapartments@ymail.com' is not valid for storage."},"rawStack":"MongoError: The dotted field 'barcelonaapartments@ymail.com' in 'subscriberEmailLog.barcelonaapartments@ymail.com' is not valid for storage.\n    at Function.MongoError.create (/therms-1337/node_modules/sails-mongo/node_modules/mongodb/node_modules/mongodb-core/lib/error.js:31:11)\n    at toError (/therms-1337/node_modules/sails-mongo/node_modules/mongodb/lib/utils.js:114:22)\n    at /therms-1337/node_modules/sails-mongo/node_modules/mongodb/lib/collection.js:985:67\n    at /therms-1337/node_modules/sails-mongo/node_modules/mongodb/node_modules/mongodb-core/lib/topologies/server.js:780:13\n    at [object Object].Callbacks.emit (/therms-1337/node_modules/sails-mongo/node_modules/mongodb/node_modules/mongodb-core/lib/topologies/server.js:95:3)\n    at [object Object].messageHandler (/therms-1337/node_modules/sails-mongo/node_modules/mongodb/node_modules/mongodb-core/lib/topologies/server.js:249:23)\n    at Socket.<anonymous> (/therms-1337/node_modules/sails-mongo/node_modules/mongodb/node_modules/mongodb-core/lib/connection/connection.js:265:22)\n    at emitOne (events.js:82:20)\n    at Socket.emit (events.js:169:7)\n    at readableAddChunk (_stream_readable.js:146:16)\n    at Socket.Readable.push (_stream_readable.js:110:10)\n    at TCP.onread (net.js:529:20)","details":"Details:  MongoError: The dotted field 'barcelonaapartments@ymail.com' in 'subscriberEmailLog.barcelonaapartments@ymail.com' is not valid for storage.\n","level":"error","timestamp":"2016-05-16T06:04:08.056Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T06:04:32.460Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T06:04:38.312Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T06:04:38.312Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T06:05:41.892Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T06:05:41.892Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T06:05:44.092Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T06:07:09.092Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T06:07:09.094Z"}
+{"level":"verbose","message":"Rendering view: \"public/index\" (located @ \"/therms-1337/views/public/index\")","timestamp":"2016-05-16T06:07:44.177Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T06:08:00.817Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T06:09:25.816Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T06:09:25.817Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T06:09:28.230Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T06:10:53.228Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T06:10:53.229Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T06:10:54.667Z"}
+{"level":"verbose","message":"Rendering view: \"dashboard\" (located @ \"/therms-1337/views/dashboard\")","timestamp":"2016-05-16T06:11:20.850Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T06:11:20.921Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T06:11:20.922Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T06:11:25.269Z"}
+{"level":"verbose","message":"Rendering view: \"public/index\" (located @ \"/therms-1337/views/public/index\")","timestamp":"2016-05-16T06:12:44.230Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T06:15:21.811Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T06:15:21.815Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T06:15:31.288Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T06:16:56.288Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T06:16:56.288Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T06:16:58.711Z"}
+{"level":"verbose","message":"Rendering view: \"public/index\" (located @ \"/therms-1337/views/public/index\")","timestamp":"2016-05-16T06:17:44.243Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T06:18:23.714Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T06:18:23.715Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T06:18:25.629Z"}
+{"level":"verbose","message":"Rendering view: \"public/index\" (located @ \"/therms-1337/views/public/index\")","timestamp":"2016-05-16T06:19:35.668Z"}
+{"level":"verbose","message":"Rendering view: \"dashboard\" (located @ \"/therms-1337/views/dashboard\")","timestamp":"2016-05-16T06:19:39.955Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T06:19:42.031Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T06:19:50.627Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T06:19:50.629Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T06:19:52.184Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T06:21:17.185Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T06:21:17.186Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T06:21:25.336Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T06:22:25.480Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T06:22:25.481Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T06:22:32.760Z"}
+{"level":"verbose","message":"Rendering view: \"public/index\" (located @ \"/therms-1337/views/public/index\")","timestamp":"2016-05-16T06:22:44.238Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T06:22:50.335Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T06:22:50.336Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T06:22:52.775Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T06:24:17.775Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T06:24:17.775Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T06:24:25.920Z"}
+{"level":"verbose","message":"Rendering view: \"dashboard\" (located @ \"/therms-1337/views/dashboard\")","timestamp":"2016-05-16T06:25:12.279Z"}
+{"err":{"code":"E_SESSION"},"level":"debug","message":"SocketService.afterDisconnect() err","timestamp":"2016-05-16T06:25:12.383Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T06:25:12.385Z"}
+{"level":"debug","message":"`sails.sockets.subscribers()` is deprecated (see `http://next.sailsjs.org/documentation/concepts/upgrading/to-v-0-12`)","timestamp":"2016-05-16T06:25:17.544Z"}
