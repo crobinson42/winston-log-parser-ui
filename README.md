@@ -1,4 +1,4 @@
-### Powered by Sailsjs.org
+### Powered by Sails (Sailsjs.org)
 
 ## Winston Log Parser UI
 
